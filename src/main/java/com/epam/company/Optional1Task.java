@@ -1,3 +1,5 @@
+package com.epam.company;
+
 import static com.epam.company.optional1task.EvenOddNumbers.setEvenOddDigits;
 import static com.epam.company.optional1task.LongShortNumbers.setLongShortNum;
 import static com.epam.company.optional1task.NumbersAndLength.setNumberLength;
